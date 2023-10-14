@@ -8,7 +8,7 @@ const SectionTwo = () => {
             <div className="px-5 md:px-12 lg:px-20 xl:px-32 mt-28 relative overflow-hidden pb-8" >
                 <h2 className="font-poppins text-4xl md:text-[65px] font-bold leading-normal text-center" >Want to <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary" >Join</span> us?</h2>
                 <p className="font-poppins text-2xl leading-9 text-center mt-4 text-black z-10 relative" >To remain with us, it is essential that you diligently follow the steps provided</p>
-                <div className="mt-[84px] flex flex-wrap justify-center gap-x-8 gap-y-11 " >
+                <div className="mt-[84px] flex flex-wrap justify-center xl:grid grid-cols-3 gap-x-8 gap-y-11 " >
                     <HeroCard
                         title={"Commencement of business "}
                         subtitle={"Invested shareholders must confirm payment and office address "}
