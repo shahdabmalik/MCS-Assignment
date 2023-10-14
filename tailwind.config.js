@@ -25,7 +25,7 @@ export default {
         "medium-gray": "#999"
       },
       backgroundImage: {
-        'hero-gradient': "url('./src/assets/Gradientbackground.svg')",
+        'hero-gradient': "url('/src/assets/Gradientbackground.svg')",
       }
     },
   },
