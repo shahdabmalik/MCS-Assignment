@@ -1,5 +1,5 @@
 import Footer from "../../components/footer/Footer"
-import SectionOne from "./SectionONe"
+import SectionOne from "./SectionOne"
 import SectionThree from "./SectionThree"
 import SectionTwo from "./SectionTwo"
 
